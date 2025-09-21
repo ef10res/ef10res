@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**ef10res/ef10res** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Erick Flores
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Erick Flores, a student at Brigham Young University-Idaho interested in computer science, data science, and web development. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning to create medium difficulty webpages.
+- My goals are to enhance my skills in web development and computer programming to eventually be able to advance my career
+
+## Technologies and Tools
+
+- Proficient in: <HTML, CSS, and Javascript>
+- Skills: <C#, Python, SQL>
+
+## Let's Connect!
+
+- Here is my Linkedin profile https://www.linkedin.com/in/erick-flores-311a04257/
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 -->
